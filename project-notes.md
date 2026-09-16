@@ -1,2 +1,3 @@
 win % Max
 opa
+result
